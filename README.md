@@ -1,6 +1,9 @@
 ## Link do Swagger 
 https://app.swaggerhub.com/apis-docs/RAFAELCAMILO21/helper/1.0#/
 
+## Link postMan
+https://documenter.getpostman.com/view/21957713/2s93eU2ZQ6
+
 ## Como executar o projeto
  Basta baixa-lo no computador e abrir a pasta em um editor de código que dê suporte ao Java, muito importante aguardar que as dependências sejam baixadas corretamente
 
